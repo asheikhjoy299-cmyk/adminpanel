@@ -19,13 +19,5 @@
     "updateUrl": "https://t.me/+Qx8QMBzqx9U4MDRl"
   },
   "BannedHWIDs": {},
-  "Keys": {
-    "SHANTO-XZHOHM": {
-      "hwid": "B5BB95B523940D75",
-      "expireDate": "2026-06-10",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
-    }
-  }
+  "Keys": {}
 }
