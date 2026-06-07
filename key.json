@@ -15,7 +15,7 @@
     ],
     "title": "SHANTO ADM! SECURITY",
     "updateMsg": "New SA PANEL version available! Please update.",
-    "updateRequired": false,
+    "updateRequired": true,
     "updateUrl": "https://t.me/+Qx8QMBzqx9U4MDRl"
   },
   "BannedHWIDs": {},
