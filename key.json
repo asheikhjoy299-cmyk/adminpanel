@@ -5,7 +5,7 @@
     "getKeyUrl": "https://t.me/Shanto_x2",
     "imageUrl": "https://i.ibb.co/2YWR80q1/0b7cb14e098e.png",
     "loginBtnText": "AUTHENTICATE",
-    "maintenanceMode": false,
+    "maintenanceMode": true,
     "maintenanceMsg": "SA PANEL server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "title": "SHANTO ADM! SECURITY",
     "updateMsg": "New SA PANEL version available! Please update.",
-    "updateRequired": true,
+    "updateRequired": false,
     "updateUrl": "https://t.me/+Qx8QMBzqx9U4MDRl"
   },
   "BannedHWIDs": {},
