@@ -19,5 +19,13 @@
     "updateUrl": "https://t.me/+Qx8QMBzqx9U4MDRl"
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "DPMods-YU6MN4": {
+      "hwid": "B5BB95B523940D75",
+      "expireDate": "2026-06-08",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
